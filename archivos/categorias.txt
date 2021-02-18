@@ -1,0 +1,9 @@
+colores
+paises
+animales
+verduras
+nombres
+peliculas
+series
+marcas ropa
+marcas autos

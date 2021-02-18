@@ -1,0 +1,48 @@
+abarth
+alfa romeo
+alpine
+aston martin
+audi
+bentley
+bmw
+bugatti
+citroen
+cupra
+dacia
+dfsk
+ds
+ferrari
+fiat
+ford
+hispano suiza
+honda
+hyundai
+jaguar
+jeep
+kia
+koenigsegg
+lamborghini
+land rover
+lexus
+lotus
+maserati
+mazda
+mclaren
+mercedez-benz
+mini
+mitsubishi
+nissan
+opel
+pagani
+peugeot
+polestar
+porsche
+renault
+rolls-royce
+seat
+skoda
+smart
+ssangyong
+subaru
+suzuki
+tesla
